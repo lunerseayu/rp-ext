@@ -1,0 +1,14 @@
+{
+  "id": "pocopico.i40evf",
+  "url": "https://raw.githubusercontent.com/lunerseayu/rp-ext/master/i40evf/rpext-index.json",
+  "info": {
+    "name": "i40evf",
+    "description": "Adds Intel(R) Ethernet Connection i40evf Network Driver Support",
+    "author_url": "https://github.com/pocopico",
+    "packer_url": "https://github.com/lunerseayu/rp-ext/tree/main/i40evf",
+    "help_url": "<todo>"
+  },
+  "releases": {
+    "ds918p_42218": "https://raw.githubusercontent.com/lunerseayu/rp-ext/master/i40evf/releases/ds918p_42218.json"
+  }
+}

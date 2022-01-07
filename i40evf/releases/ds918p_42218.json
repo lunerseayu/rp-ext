@@ -1,0 +1,27 @@
+{
+  "mod_version": "v1",
+
+  "files": [
+    {
+      "name": "i40evf-4.4.180plus.tgz",
+      "url": "https://raw.githubusercontent.com/lunerseayu/rp-ext/master/i40evf/releases/i40evf-4.4.180plus.tgz",
+      "sha256": "39c3d5eb58a4bc57ae770b1b09e8f95693dee03fb89c0c8b1dafb1ee510c86a5",
+      "packed": true
+    },
+    {
+      "name": "check-i40evf.sh",
+      "url": "https://raw.githubusercontent.com/lunerseayu/rp-ext/master/i40evf/src/check-i40evf.sh",
+      "sha256": "51bd015d5f0a68dfaed93f03dcad76a6884f70ff16d564bca5a84772da1c186c",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "i40evf.ko": ""
+  },
+
+    "scripts": {
+    "on_boot": "check-i40evf.sh"
+  }
+
+}
