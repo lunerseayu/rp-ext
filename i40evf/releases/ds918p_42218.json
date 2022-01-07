@@ -11,7 +11,7 @@
     {
       "name": "check-i40evf.sh",
       "url": "https://raw.githubusercontent.com/lunerseayu/rp-ext/master/i40evf/src/check-i40evf.sh",
-      "sha256": "51bd015d5f0a68dfaed93f03dcad76a6884f70ff16d564bca5a84772da1c186c",
+      "sha256": "dfcb5e204596f129cb1ed520e475c2105d8d8a48e406c180b653f58a8b0af619",
       "packed": false
     }
   ],
